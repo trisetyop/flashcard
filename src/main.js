@@ -1,4 +1,4 @@
-const files = ["ISBD.txt"]; // tambahkan file di sini
+const files = ["ISBD.txt", "Perencanaan-dan-Pengembangan-Bisnis.txt"]; // tambahkan file di sini
 
 const app = document.getElementById("app");
 
